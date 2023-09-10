@@ -36,3 +36,4 @@
 //     age:29
 // }
 // console.log(newStudent)
+console.log("hoisting is the declaration of the top of current scope")

@@ -71,3 +71,4 @@ const users=[
 
 const names=users.filter((user)=>user.isActive).sort((u1,u2)=>u1.age<u2.age?1:-1).map((user)=>user.name)
 console.log("user name is here:",names)
+console.log("here we are learning how to write the code in efficient way")
